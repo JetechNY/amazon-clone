@@ -6,8 +6,7 @@ function Subtotal() {
   return (
     <div className="subtotal">
       <CurrencyFormat
-        
-      />
+              />
     </div>
   )
 }

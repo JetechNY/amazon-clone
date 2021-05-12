@@ -13,7 +13,6 @@ function Checkout() {
         />
         <div>
           <h2 className="checkout_title">Your Shopping Basket</h2>
-          {/* BasketItem */}
         </div>
       </div>
 

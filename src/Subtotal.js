@@ -16,7 +16,11 @@ function Subtotal() {
         </small>
         </>
       )}
-      
+      decimalScale={2}
+      value={0}
+      displayType={"text"}
+      thousandsSeparator={true}
+      prefix={"$"}
       />
     </div>
   )

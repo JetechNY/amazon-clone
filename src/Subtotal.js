@@ -10,7 +10,6 @@ function Subtotal() {
   // const calculateTotal = (basket) => {
   //   return basket.reduce((price, item) => item.price + price, 0)
   // }
-
   return (
     <div className="subtotal">
       <CurrencyFormat
@@ -21,7 +20,7 @@ function Subtotal() {
           <strong>{value}</strong>
         </p>
         <small className="subtotal_gift">
-          <input type="checkbox"/> This order contains a gift!
+          <input type="checkbox"/> This order contains a gift
         </small>
         </>
       )}

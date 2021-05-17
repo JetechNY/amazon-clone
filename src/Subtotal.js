@@ -10,6 +10,7 @@ function Subtotal() {
   // const calculateTotal = (basket) => {
   //   return basket.reduce((price, item) => item.price + price, 0)
   // }
+  
   return (
     <div className="subtotal">
       <CurrencyFormat

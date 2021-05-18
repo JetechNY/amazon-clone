@@ -10,7 +10,7 @@ function Subtotal() {
   // const calculateTotal = (basket) => {
   //   return basket.reduce((price, item) => item.price + price, 0)
   // }
-  
+
   return (
     <div className="subtotal">
       <CurrencyFormat
@@ -32,7 +32,7 @@ function Subtotal() {
       prefix={"$"}
       />
 
-      <button> Preceed to Checkout</button>
+      <button>Preceed to Checkout</button>
     </div>
   )
 }

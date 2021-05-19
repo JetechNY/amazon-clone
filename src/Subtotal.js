@@ -32,7 +32,7 @@ function Subtotal() {
       prefix={"$"}
       />
 
-      <button>Preceed to Checkout</button>
+      <button>Proceed to Checkout</button>
     </div>
   )
 }

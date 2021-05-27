@@ -4,6 +4,7 @@ const CheckoutProduct = () => {
   return (
     <div>
       <p>ITEMS LIST HERE </p>
+      
     </div>
   )
 }

@@ -7,6 +7,5 @@ const CheckoutProduct = () => {
     </div>
   )
 }
-
 export default CheckoutProduct
 

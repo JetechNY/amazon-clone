@@ -21,7 +21,6 @@ function Header() {
       <div className="header_search">
         <input className="header_searchInput" type="text" />
         <SearchIcon className="header_searchIcon" />
-        {/* Logo */}
       </div>
 
       <div className="header_nav" />

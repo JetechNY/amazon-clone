@@ -14,7 +14,7 @@ function Header() {
         <img
           className="header_logo"
           src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
-          alt="Amazon Logo"
+          alt="Amazon Smile Logo"
         />
       </Link>
 

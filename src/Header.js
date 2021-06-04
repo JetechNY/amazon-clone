@@ -33,7 +33,7 @@ function Header() {
         <span className="header_optionLineTwo">& Orders</span>
       </div>
       <div className="header_option">
-        <span className="header_optionLineOne">Your </span>
+        <span className="header_optionLineOne">Your</span>
         <span className="header_optionLineTwo">Prime</span>
       </div>
       <Link to="/checkout">

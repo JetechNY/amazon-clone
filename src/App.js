@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
-    // BEM
+    // BEM a
     <Router>
       <div className="app">
         <Header />

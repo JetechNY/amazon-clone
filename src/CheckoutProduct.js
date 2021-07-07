@@ -3,7 +3,7 @@ import React from 'react'
 const CheckoutProduct = () => {
   return (
     <div>
-      <p>Cart Checkout List</p>
+      <p>Cart Checkout List...</p>
     </div>
   )
 }

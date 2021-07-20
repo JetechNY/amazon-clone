@@ -1,3 +1,3 @@
-Amazon Web Store Clone
+Amazon Web Store Project
 React
 

@@ -3,3 +3,4 @@ React
 Checkout
 Product
 Cart
+NavBar

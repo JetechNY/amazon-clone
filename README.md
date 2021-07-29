@@ -4,4 +4,3 @@ Checkout
 Product
 Cart
 NavBar
-
